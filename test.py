@@ -1,1 +1,1 @@
-print('ahoj1')
+print('ahoj2')
